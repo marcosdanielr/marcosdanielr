@@ -10,7 +10,7 @@
   <img align="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="sass-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="csharp-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="unity-icon" height="30" width="40" src="https://svgshare.com/i/eBt.svg">
+  <img align="center" alt="unity-icon" height="30" width="40" src="https://svgshare.com/i/eCB.svg">
   <img align="center" alt="linux-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  
   
