@@ -11,6 +11,7 @@
 <img align="center" alt="typescript-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
 <img  align="center" alt="lua-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />       
 <img align="center" alt="csharp-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
+<img align="center" alt="vim-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">  
 <img align="center" alt="unity-icon" height="30" width="40" src="https://svgshare.com/i/eCB.svg">
 <img align="center" alt="linux-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  
