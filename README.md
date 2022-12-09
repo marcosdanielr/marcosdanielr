@@ -15,8 +15,12 @@
 <img align="center" alt="unity-icon" height="30" width="40" src="https://svgshare.com/i/eCB.svg">
 <img align="center" alt="linux-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  
-  
   ##
+ 
+ <p align="center"> 
+  Visitor count ;O<br>
+  <img src="https://profile-counter.glitch.me/marcosdanielr/count.svg" />
+</p>
  
 <div> 
 
