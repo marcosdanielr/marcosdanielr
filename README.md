@@ -18,7 +18,7 @@
  
  <p align="center"> 
 
-   ;O
+   :O
    <br>  
   <img src="https://profile-counter.glitch.me/marcosdanielr/count.svg" />
 </p>
