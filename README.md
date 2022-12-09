@@ -1,6 +1,10 @@
 <div align="center">
  
    :)
+ 
+ <img align="center" alt=";p" src="https://media.tenor.com/ODLFd_dMihkAAAAM/kirby-kirby-stimming.gif">
+ 
+ ##
 
 <div style="display: inline_block"><br>  
 <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
