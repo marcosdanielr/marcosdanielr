@@ -20,6 +20,7 @@
 
 <img align="center" alt="nodejs-icon" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=45fc03" />
 <img align="center" alt="flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="center" alt="fast-api-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
 
 
 ##
