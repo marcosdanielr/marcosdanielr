@@ -13,7 +13,7 @@
 <img  align="center" alt="dart-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
 
 ##
- 
+
 <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="nextjs-icon" height="30" width="40" src="https://svgshare.com/i/iry.svg" />
 
@@ -23,10 +23,11 @@
 <img align="center" alt="fast-api-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 
 
-#  
+# 
+<img align="center" alt="redux-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="center" alt="postgresql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />   
 <img align="center" alt="mongodb-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="vim-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="docker-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="vim-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="center" alt="linux-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  
