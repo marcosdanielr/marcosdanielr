@@ -29,10 +29,10 @@ Welcome!
 
 #### Social medias:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/marcos-roque-081a47221/">
+  <a href="https://www.linkedin.com/in/marcos-roque-081a47221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/marcosdanielr99/">
+  <a href="https://www.instagram.com/marcosdanielr99/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
